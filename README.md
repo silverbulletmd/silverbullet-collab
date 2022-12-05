@@ -1,5 +1,5 @@
 
-# SilverBullet plug for real-time collaboration
+# This has been moved into the [main repo](https://github.com/silverbulletmd/silverbullet/tree/main/plugs/collab)
 
 WIP
 
